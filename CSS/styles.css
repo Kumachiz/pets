@@ -1,11 +1,13 @@
+body {
+  background-image: url(http://pic.1fotonin.com/data/wallpapers/174/WDF_2137534.jpg);
+  animation-fill-mode: forwards;
+}
 .category {
   color: white;
   font-weight: normal;
   font-family: sans-serif;
   font-size-adjust: auto;
 }
-html {
-  background-color: #2196F3;
 }
 .category {
   float: left;
