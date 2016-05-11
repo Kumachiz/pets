@@ -1,0 +1,45 @@
+.category {
+  color: white;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size-adjust: auto;
+}
+html {
+  background-color: #2196F3;
+}
+.category {
+  float: left;
+  padding-left: 12px;
+}
+.big {
+  margin: 12px;
+  border: 2px solid white;
+  padding: 4px;
+  background-color: #1DE9B6;
+}
+.small {
+  margin: 12px;
+  border: 2px solid white;
+  padding: 4px;
+  background-color: #FF5722;
+}
+.weds {
+  margin: 12px;
+  border: 2px solid white;
+  padding: 4px;
+  background-color: #EC407A;
+}
+.gangstar {
+  margin: 12px;
+  border: 2px solid white;
+  padding: 4px;
+  background-color: #3F51B5;
+}
+.links {
+  float: right;
+  margin: 10px;
+  border: 10px;
+  padding: 4px;
+  background-color: white;
+  color: red;
+}
